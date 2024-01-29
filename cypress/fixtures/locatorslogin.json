@@ -1,0 +1,14 @@
+{
+"loginPage" : {
+
+    "emailInputField" : "#email" ,
+    "passwordInputField" : "#password" ,
+    "submitButton" : "button",
+    "headingInputField" : "h1",
+    "labelInputField" : "label"
+    
+
+ 
+}
+
+}
